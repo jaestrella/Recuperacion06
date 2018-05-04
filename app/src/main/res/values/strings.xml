@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recuperacion06</string>
+    
+    <string-array name="equipos">
+        <item>ATLETICO DE MADRID</item>
+        <item>REAL MADRID</item>
+        <item>FC.BARCELONA</item>
+        <item>VALENCIA CF</item>
+        <item>AT. BILBAO</item>
+    </string-array>
+    
+    <string-array name="competicion">
+        <item>LIGA DE CAMPEONES</item>
+        <item>EUROPA LEAGUE</item>
+        <item>PRIMERA DIVISION</item>
+        <item>COPA DEL REY</item>
+    </string-array>
+
+    <string-array name="retransmitido">
+        <item>TELEVISION EN ABIERTO</item>
+        <item>TELEVISION DE PAGO</item>
+        <item>NO RETRANSMITIDO</item>
+    </string-array>
+    
+</resources>
